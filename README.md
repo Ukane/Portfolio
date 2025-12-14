@@ -1,5 +1,14 @@
-# Portfolio
+# Hello everyone! My name is Vladimir. 
 
-Hello everyone! My name is Vladimir. I'm the data analyst and this is my pack of works!
+## About me:
+I'm the data analyst
 
-My hard skills: Python (Sklearn, Matplotlib, Seaborn, Scipy, Seaborn, Statistics) PostgreSQL, Power BI
+## Tech stack: 
+- Python (Sklearn, Matplotlib, Seaborn, Scipy, Seaborn, Statistics)
+- PostgreSQL
+- Power BI
+- Anylogic
+
+## Contacts:
+- Email: vakarin.q@mail.ru
+- Telegram: @mysterious_vl
